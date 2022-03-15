@@ -1,4 +1,4 @@
-# Tools-Crack
+# Premium
 $ pkg update && pkg upgrade
 
 $ pkg install python
